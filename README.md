@@ -13,7 +13,9 @@
 </p>
 
 
-<p align="center">[![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=merry555)](https://github.com/anuraghazra/github-readme-stats)</p>
+<p align="center">
+  [![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=merry555)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 
 ## <p align="center"> :love_letter: Contact with me :love_letter:</p>
