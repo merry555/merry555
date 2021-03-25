@@ -14,7 +14,7 @@
   <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" width="30" height="30"/>
   <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="30" height="30"/>
   <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" width="30" height="30"/>
-  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="30" height="30"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" width="30" height="30"/>
 </p>
 
 ## <p align="center"> :star: Github Stats :star:</p>
