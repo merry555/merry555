@@ -13,9 +13,7 @@
 </p>
 
 
-<p align="center">
   ![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=merry555&show_icons=true&theme=radical)
-</p>
 
 
 ## <p align="center"> :love_letter: Contact with me :love_letter:</p>
