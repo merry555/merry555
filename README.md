@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  [![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=merry555)](https://github.com/anuraghazra/github-readme-stats)
+  ![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=merry555&show_icons=true&theme=radical)
 </p>
 
 
