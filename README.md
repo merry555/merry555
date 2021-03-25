@@ -13,12 +13,12 @@
 </p>
 
 ## <p align="center"> :star: Github Stats :star:</p>
-  ![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=merry555&show_icons=true&theme=radical)  
+  ![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=merry555&show_icons=true&theme=radical?style=centerme)  
   
 ## <p align="center"> :star: Most Used Language :star:</p>
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merry555&layout=compact)](https://github.com/merry555/github-readme-stats)
-</p>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merry555&layout=compact?style=centerme)](https://github.com/merry555/github-readme-stats)
+
 
 ## <p align="center"> :love_letter: Contact with me :love_letter:</p>
 
@@ -33,3 +33,8 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&fontSize=90)
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
