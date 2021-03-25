@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Ji%20Su%20Kim&fontSize=90)
-# Hi there 👋  I'm a Data Scientist! :computer:
+# Hi there 👋  I'm a Data Scientist! :computer: [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmerry555%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## <p align="center"> :star: Programming Skills :star:</p>
 <p align="center">
@@ -23,6 +23,7 @@
 - ⚡ Fun fact: ...
 
 ## <p align="center"> :love_letter: Contact with me :love_letter:</p>
+
 <p align="center">
   <a href="jisukim8873@gmail.com">
   <img src="https://img.shields.io/badge/-My Portfolio-blue?logo=pagekit&logoColor=white&style=for-the-badge"></a>
