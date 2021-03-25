@@ -16,8 +16,9 @@
   ![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=merry555&show_icons=true&theme=radical)  
   
 ## <p align="center"> :star: Most Used Language :star:</p>
+<p align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merry555&layout=compact)](https://github.com/merry555/github-readme-stats)
-
+</p>
 
 ## <p align="center"> :love_letter: Contact with me :love_letter:</p>
 
