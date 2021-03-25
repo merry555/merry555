@@ -9,8 +9,11 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />  
   <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" width="30" height="30"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="30" height="30"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/scipy.svg" width="30" height="30"/>
+  <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="30" height="30"/>
 </p>
 
 ## <p align="center"> :star: Github Stats :star:</p>
