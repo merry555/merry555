@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Ji%20Su%20Kim&fontSize=90)
-Here are some ideas to get you started:
+
+:star: Tech Stack :star:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
