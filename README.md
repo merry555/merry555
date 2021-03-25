@@ -1,5 +1,5 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Ji Su%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=capsule%20render&fontSize=90)
 
 <!--
 **merry555/merry555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
