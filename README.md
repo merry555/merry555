@@ -28,7 +28,7 @@
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1aAGzHHIghubJdD3RRqMXj-VA6NhzZu9q/view?usp=sharing">
-    <img src="https://user-images.githubusercontent.com/18303573/112487496-1924a000-8dc0-11eb-8b2b-dbc732cadafa.jpeg"  width="50" height="50">
+    <img src="https://user-images.githubusercontent.com/18303573/112487496-1924a000-8dc0-11eb-8b2b-dbc732cadafa.jpeg"  width="30" height="30">
   </a>
   <a href="https://blog.naver.com/hellomerry604">
   <img src="https://img.shields.io/badge/-My Portfolio-blue?logo=pagekit&logoColor=white&style=for-the-badge"></a>
