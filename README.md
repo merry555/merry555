@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Ji%20Su%20Kim&fontSize=90)
-# [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmerry555%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  Hi there 👋  I'm a Data Scientist! :computer: 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmerry555%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Hi there 👋  I'm a Data Scientist! :computer: 
 
 ## <p align="center"> :star: Programming Skills :star:</p>
 <p align="center">
