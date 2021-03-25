@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Ji%20Su%20Kim&fontSize=90)
-# Hi there 👋  
-#### I'm a Data Scientist!
+# Hi there 👋  I'm a Data Scientist! :computer:
 
 ## <p align="center"> :star: Tech Stack :star:</p>
 
@@ -14,7 +13,7 @@
 - ⚡ Fun fact: ...
 
 ## <p align="center"> :love_letter: Contact with me :love_letter:</p>
-[<img align="left" alt="Gmail" src="[https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>][Gmail]
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 
