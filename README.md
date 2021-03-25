@@ -14,6 +14,7 @@
 
 
   ![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=merry555&show_icons=true&theme=radical)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/merry555/github-readme-stats)
 
 
 ## <p align="center"> :love_letter: Contact with me :love_letter:</p>
