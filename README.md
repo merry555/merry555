@@ -1,9 +1,3 @@
-
-img[src$="centerme"] {
-  display:block;
-  margin: 0 auto;
-}
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Ji%20Su%20Kim&fontSize=90)  
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmerry555%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"/>  I'm a Data Scientist! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="30" height="30"/>
@@ -19,11 +13,13 @@ img[src$="centerme"] {
 </p>
 
 ## <p align="center"> :star: Github Stats :star:</p>
-  ![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=merry555&show_icons=true&theme=radical?style=centerme)  
+<p align="center">
+
+  ![Jisu's GitHub stats](https://github-readme-stats.vercel.app/api?username=merry555&show_icons=true&theme=radical)  
   
 ## <p align="center"> :star: Most Used Language :star:</p>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merry555&layout=compact?style=centerme)](https://github.com/merry555/github-readme-stats)
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=merry555&layout=compact)](https://github.com/merry555/github-readme-stats)
 
 
 ## <p align="center"> :love_letter: Contact with me :love_letter:</p>
