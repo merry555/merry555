@@ -27,7 +27,7 @@
 ## <p align="center"> :love_letter: Contact with me :love_letter:</p>
 
 <p align="center">
-  <a href="jisukim8873@gmail.com">
+  <a href="https://blog.naver.com/hellomerry604">
   <img src="https://img.shields.io/badge/-My Portfolio-blue?logo=pagekit&logoColor=white&style=for-the-badge"></a>
   <a href="jisukim8873@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
