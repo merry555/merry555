@@ -14,5 +14,9 @@
 - ⚡ Fun fact: ...
 
 ## <p align="center"> :love_letter: Contact with me :love_letter:</p>
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&fontSize=90)
