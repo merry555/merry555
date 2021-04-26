@@ -30,8 +30,6 @@
   <a href="https://drive.google.com/file/d/1Nq0tyrhi8GRICc3_Ii9Rn5F0r1XD6Af6/view?usp=sharing">
     <img src="https://user-images.githubusercontent.com/18303573/112487496-1924a000-8dc0-11eb-8b2b-dbc732cadafa.jpeg"  width="30" height="30">
   </a>
-  <a href="https://blog.naver.com/hellomerry604">
-  <img src="https://img.shields.io/badge/-My Portfolio-blue?logo=pagekit&logoColor=white&style=for-the-badge"></a>
   <a href="jisukim8873@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ji-su-kim-ba4874168/">
